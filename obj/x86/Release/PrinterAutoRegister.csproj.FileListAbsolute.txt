@@ -1,0 +1,10 @@
+C:\dev2011\自動設定ツール\PrinterAutoRegister\001\bin\Release\PrinterAutoRegister.exe
+C:\dev2011\自動設定ツール\PrinterAutoRegister\001\bin\Release\PrinterAutoRegister.pdb
+C:\dev2011\自動設定ツール\PrinterAutoRegister\001\obj\x86\Release\ResolveAssemblyReference.cache
+C:\dev2011\自動設定ツール\PrinterAutoRegister\001\obj\x86\Release\PrinterAutoRegister.exe
+C:\dev2011\自動設定ツール\PrinterAutoRegister\001\obj\x86\Release\PrinterAutoRegister.pdb
+C:\dev2011\自動設定ツール\PrinterAutoRegister\002\obj\x86\Release\PrinterAutoRegister.exe
+C:\dev2011\自動設定ツール\PrinterAutoRegister\002\obj\x86\Release\PrinterAutoRegister.pdb
+C:\dev2011\自動設定ツール\PrinterAutoRegister\002\bin\Release\PrinterAutoRegister.exe
+C:\dev2011\自動設定ツール\PrinterAutoRegister\002\bin\Release\PrinterAutoRegister.pdb
+C:\dev2011\自動設定ツール\PrinterAutoRegister\002\obj\x86\Release\ResolveAssemblyReference.cache
